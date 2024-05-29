@@ -75,3 +75,4 @@ DerivedDataCache/*
 
 # UE5無視フォルダ
 /Content/Private/
+/Content/CitySampleBuildings/
